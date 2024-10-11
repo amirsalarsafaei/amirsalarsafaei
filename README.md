@@ -1,5 +1,5 @@
 
-[![Amirsalar's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirsalarsafaei)](https://github.com/anuraghazra/github-readme-stats)
+[![Amirsalar's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirsalarsafaei&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **amirsalarsafaei/amirsalarsafaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
