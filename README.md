@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a dedicated software engineer with a passion for crafting elegant solutions to complex problems. My expertise spans systems programming, web development, and distributed systems. I'm a NixOS enthusiast and Neovim power user who believes in the power of configurable, reproducible development environments.
+I'm a dedicated software engineer with a passion for crafting elegant solutions to complex problems. My expertise spans systems programming, web development, and distributed systems.
 
 - 🌱 I'm currently learning and growing every day
 - 💼 Working on exciting projects that challenge me
@@ -37,12 +37,12 @@ I'm a dedicated software engineer with a passion for crafting elegant solutions 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=amirsalarsafaei&theme=transparent&hide_border=true&show_icons=true&count_private=true"/>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=amirsalarsafaei&theme=transparent&hide_border=true&show_icons=true&count_private=true"/>
+    <img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=amirsalarsafaei&theme=react-dark&hide_border=true&area=true"/>
+  </div>
 </div>
 
-## 🌟 Contributions
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amirsalarsafaei&theme=react-dark)
 
 ## 🤝 Connect with Me
 
@@ -50,9 +50,6 @@ I'm a dedicated software engineer with a passion for crafting elegant solutions 
   <a href="https://linkedin.com/in/amir-salar-safaei-0492a411a"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
   <a href="mailto:amirs.s.g.o@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amirsalarsafaei&color=blue&style=flat-square&label=Profile+Views"/>
 </p>
