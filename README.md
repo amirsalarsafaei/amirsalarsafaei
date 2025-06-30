@@ -25,7 +25,7 @@ Shell: zsh + wezterm + neovim
 Experience: 3+ years in production systems
 ```
 
-Working on backend services at **[Divar](https://divar.ir)** where I'm exposed to high-scale challenges and learning how to handle millions of requests daily. CS graduate from **[Sharif University](https://sharif.edu)** with a growing passion for systems programming and competitive algorithms.
+Working on backend services at **[Divar](https://divar.ir)** where I'm exposed to high-scale challenges and learning how to handle millions of requests daily. CS graduate from **[Sharif University](https://sharif.edu)** with a growing passion for systems programming and concurrent algorithms.
 
 **Learning Journey & Interests:**
 - 🏗️ **Distributed Systems**: Exploring patterns for fault-tolerant microservices and scalability
