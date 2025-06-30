@@ -1,4 +1,3 @@
-
 <div align="center">
 
 
@@ -7,7 +6,7 @@
    Software Engineer • System Architect • Terminal Dweller
 ```
 
-<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=$$ whoami;amirsalar@divar:~%2F;$$ grep -r 'expertise' /proc/skills;Software+Engineer+%7C+Sharif+Grad+%7C+Go+%26+Rust+Enthusiast;$ uptime;System+running+for+3%2B+years+in+production" alt="Terminal Animation" /> </a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Software+Engineer;Sharif+University+Graduate;Go+and+Rust+Enthusiast;Learning+distributed+systems;Aspiring+to+build+at+scale" alt="Typing SVG" />
 
 [![Website](https://img.shields.io/badge/Portfolio-amirsalarsafaei.com-58A6FF?style=for-the-badge&logo=firefox&logoColor=white)](https://amirsalarsafaei.com)
 [![Email](https://img.shields.io/badge/PGP_Email-amirs.s.g.o%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirs.s.g.o@gmail.com)
@@ -18,22 +17,22 @@
 
 ```yaml
 Name: Amirsalar Safaei
-State: Running
+State: Learning & Growing
 Employer: Divar (Iran's #1 Marketplace - 40M+ MAU)
 Alma Mater: Sharif University of Technology
-Specialty: [Distributed Systems, Backend Architecture, Performance Engineering]
-Shell: zsh + tmux + neovim
-Uptime: 3+ years in production systems
+Learning Focus: [Distributed Systems, Backend Architecture, Performance Engineering]
+Shell: zsh + wezterm + neovim
+Experience: 3+ years in production systems
 ```
 
-Currently architecting high-throughput services at **[Divar](https://divar.ir)** where we handle millions of requests daily. CS graduate from **[Sharif University](https://sharif.edu)** with a deep passion for systems programming and competitive algorithms.
+Working on backend services at **[Divar](https://divar.ir)** where I'm exposed to high-scale challenges and learning how to handle millions of requests daily. CS graduate from **[Sharif University](https://sharif.edu)** with a growing passion for systems programming and competitive algorithms.
 
-**Core Competencies:**
-- 🏗️ **Distributed Systems**: Building fault-tolerant microservices at scale
-- ⚡ **Performance Engineering**: Optimizing for high-concurrency scenarios  
-- 🔧 **DevOps/SRE**: Infrastructure as Code, monitoring, observability
-- 📊 **Data Engineering**: Real-time pipelines and analytics systems
-- 🏃 **Competitive Programming**: Strong algorithmic problem-solving background
+**Learning Journey & Interests:**
+- 🏗️ **Distributed Systems**: Exploring patterns for fault-tolerant microservices and scalability
+- ⚡ **Performance Engineering**: Diving deep into high-concurrency scenarios and optimization  
+- 🔧 **DevOps/SRE**: Getting hands-on with Infrastructure as Code, monitoring, and observability
+- 📊 **Data Engineering**: Understanding real-time pipelines and analytics systems
+- 🏃 **Competitive Programming**: Strengthening algorithmic problem-solving skills
 
 ## `$ ls -la ~/projects/`
 
@@ -43,14 +42,14 @@ Currently architecting high-throughput services at **[Divar](https://divar.ir)**
 
 ### [🔍 sqlc-pgx-monitoring](https://github.com/amirsalarsafaei/sqlc-pgx-monitoring)
 ```go
-// Production-grade observability
+// Learning observability patterns
 type Monitor struct {
     tracer trace.Tracer
     meter  metric.Meter
 }
 ```
 **Stack:** Go, OpenTelemetry, PostgreSQL  
-**Purpose:** OTEL instrumentation for sqlc/pgx with zero-allocation telemetry
+**Purpose:** Experimenting with OTEL instrumentation for sqlc/pgx
 
 </td>
 <td width="50%">
@@ -58,13 +57,11 @@ type Monitor struct {
 ### [🌐 Personal Website](https://amirsalarsafaei.com)
 ```typescript
 const portfolio = {
-  framework: "Next.js",
-  styling: "TailwindCSS", 
-  deployment: "Vercel"
+  frameworks: ["Next.js", "Three.js"]
 }
 ```
 **Stack:** Next.js, TypeScript, MDX  
-**Purpose:** Technical blog + portfolio with 95+ Lighthouse score
+**Purpose:** Technical blog documenting my learning journey
 
 </td>
 </tr>
@@ -73,13 +70,13 @@ const portfolio = {
 
 ### [📖 Kenar Docs](https://github.com/divar-ir/kenar-docs)
 ```markdown
-# Maintaining comprehensive API docs
+# Contributing to comprehensive API docs
 - OpenAPI specifications
 - Code examples in multiple languages
 - Interactive playground
 ```
 **Role:** Core Maintainer  
-**Impact:** Developer experience for Kenar platform
+**Impact:** Improving developer experience for Kenar platform
 
 </td>
 <td width="50%">
@@ -88,10 +85,10 @@ const portfolio = {
 ```bash
 #!/bin/bash
 # NixOS configuration with home-manager
-# Neovim + tmux + zsh paradise
+# Constantly evolving dev environment
 ```
 **Stack:** Nix, Lua, Shell scripts  
-**Purpose:** Reproducible development environment
+**Purpose:** Reproducible development environment setup
 
 </td>
 </tr>
@@ -100,7 +97,7 @@ const portfolio = {
 ## `$ tech-stack --list`
 
 <details>
-<summary><b>🚀 Primary Stack</b></summary>
+<summary><b>🚀 Current Stack & Tools I'm Learning</b></summary>
 
 | Category | Technologies |
 |----------|-------------|
@@ -137,10 +134,11 @@ const portfolio = {
 ## `$ ps aux | grep current_focus`
 
 ```bash
-amirsalar  1337  0.1  2.4  /usr/bin/focus --on="Distributed Architecture at Divar"
-amirsalar  1338  0.2  1.8  /usr/bin/focus --on="Rust Systems Programming" 
-amirsalar  1339  0.1  1.2  /usr/bin/focus --on="OpenTelemetry & Observability"
-amirsalar  1340  0.3  2.1  /usr/bin/focus --on="Competitive Programming Practice"
+amirsalar  1337  0.1  2.4  /usr/bin/learn --topic="Distributed Systems Patterns"
+amirsalar  1338  0.2  1.8  /usr/bin/practice --lang="Rust Systems Programming" 
+amirsalar  1339  0.1  1.2  /usr/bin/study --area="OpenTelemetry & Observability"
+amirsalar  1340  0.3  2.1  /usr/bin/solve --platform="Competitive Programming"
+amirsalar  1341  0.2  1.6  /usr/bin/aspire --goal="Building Scalable Systems"
 ```
 
 ## `$ curl -s https://api.github.com/users/amirsalarsafaei/social`
@@ -161,10 +159,10 @@ amirsalar  1340  0.3  2.1  /usr/bin/focus --on="Competitive Programming Practice
 
 
 ```bash
-$ echo "Software is a gas; it expands to fill its container" | cowsay
- ___________________________________________________
-< Software is a gas; it expands to fill its container >
- ---------------------------------------------------
+$ echo "The best way to learn is to build, break, and rebuild" | cowsay
+ _________________________________________________
+< The best way to learn is to build, break, and rebuild >
+ -------------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
