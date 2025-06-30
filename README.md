@@ -159,9 +159,9 @@ amirsalar  1341  0.2  1.6  /usr/bin/aspire --goal="Building Scalable Systems"
 
 
 ```bash
-$ echo "The best way to learn is to build, break, and rebuild" | cowsay
+$ echo "The best way to learn is to build, break, and rebuild. Upon success you must 'mooo'" | cowsay
  _________________________________________________
-< The best way to learn is to build, break, and rebuild >
+< The best way to learn is to build, break, and rebuild. Upon success you must 'mooo' >
  -------------------------------------------------
         \   ^__^
          \  (oo)\_______
